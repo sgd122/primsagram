@@ -11,5 +11,5 @@
 ### 배포
 
 ```CMD
-prisma deploy
+yarn deploy
 ```
