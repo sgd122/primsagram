@@ -12,6 +12,21 @@
 
 **prisma.yml** 파일은 필수적으로 gitignore해주어야 합니다. (prisma주소가 사용자에게 노출되어서는 않됩니다.)
 
+### User Stories
+
+- [x] Like / Unlike a photo
+- [ ] Comment on a photo
+- [ ] Search by user
+- [ ] Search by location
+- [ ] See user profile
+- [ ] Follow / Unfollow User
+- [ ] See the full photo
+- [ ] Edit my profile
+- [ ] Log in
+- [ ] Upload a photo
+- [ ] Edit the photo (Delete)
+- [ ] See the feed
+
 ### 배포
 
 ```CMD
