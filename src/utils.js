@@ -11,17 +11,15 @@ export const generateSecret = () => {
     return `${adjectives[randomNumber]} ${nouns[randomNumber]}`;
 }
 
-console.log("::process.env.SENDGRID_API_KEY::", process.env.SENDGRID_API_KEY)
 const sendMail = (email) => {
-    const options = {
-        auth: {
-            user: process.env.SENDGRID_USERNAME,
-            pass: process.env.SENDGRID_PASSWORD
-        }
-    }
+    // const options = {
+    //     auth: {
+    //         user: process.env.SENDGRID_USERNAME,
+    //         pass: process.env.SENDGRID_PASSWORD
+    //     }
+    // }
     // const client = nodemailer.createTransport(sgTransport(options));
     // return client.sendMail(email);
-
 
     sgMail.setApiKey(process.env.SENDGRID_API_KEY);
     return sgMail.send(email);
