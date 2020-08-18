@@ -14,7 +14,8 @@
 
 ### User Stories
 
-- [x] Like / Unlike a photo
+- [ ] Log in
+- [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
 - [ ] Search by location
@@ -22,7 +23,7 @@
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Log in
+- [x] Create account
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
