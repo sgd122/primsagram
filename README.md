@@ -14,7 +14,10 @@
 
 ### User Stories
 
-- [x] Like / Unlike a photo
+- [x] Create account
+- [ ] Request Secret
+- [ ] Confirm Secret (Login)
+- [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
 - [ ] Search by location
@@ -22,7 +25,6 @@
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Log in
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
@@ -33,3 +35,8 @@
 yarn prisma
 => yarn run deploy && yarn run generate
 ```
+
+### 참조한 사이트
+
+- [랜덤한 단어](https://www.randomlists.com/random-words)
+- [메일서버](https://nodemailer.com/about/)
