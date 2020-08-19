@@ -15,8 +15,8 @@
 ### User Stories
 
 - ✅ Create account
-- ⬜️ Request Secret
-- ⬜️ Confirm Secret (Login)
+- ✅ Request Secret
+- ✅ Confirm Secret (Login)
 - ⬜️ Like / Unlike a photo
 - ⬜️ Comment on a photo
 - ⬜️ Search by user
@@ -40,3 +40,6 @@ yarn prisma
 
 - [랜덤한 단어](https://www.randomlists.com/random-words)
 - [메일서버](https://nodemailer.com/about/)
+- [JWT(passport-jwt))](http://www.passportjs.org/)
+- [random-key](https://randomkeygen.com/)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
