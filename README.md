@@ -42,3 +42,4 @@ yarn prisma
 - [메일서버](https://nodemailer.com/about/)
 - [JWT(passport-jwt))](http://www.passportjs.org/)
 - [random-key](https://randomkeygen.com/)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
