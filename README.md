@@ -19,12 +19,13 @@
 - ✅ Confirm Secret (Login)
 - ✅ Like / Unlike a photo
 - ✅ Comment on a photo
-- ⬜️ Search by user
-- ⬜️ Search by location
-- ⬜️ See user profile
-- ⬜️ Follow / Unfollow User
-- ⬜️ See the full photo
+- ✅ Search by user
+- ✅ Search by location
+- ✅ Follow User
+- ✅ Unfollow User
 - ⬜️ Edit my profile
+- ⬜️ See user profile
+- ⬜️ See the full photo
 - ⬜️ Upload a photo
 - ⬜️ Edit the photo (Delete)
 - ⬜️ See the feed
