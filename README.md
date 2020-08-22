@@ -23,8 +23,9 @@
 - ✅ Search by location
 - ✅ Follow User
 - ✅ Unfollow User
-- ⬜️ Edit my profile
-- ⬜️ See user profile
+- ✅ Edit my profile
+- ✅ See user profile
+- ⬜️ See my profile
 - ⬜️ See the full photo
 - ⬜️ Upload a photo
 - ⬜️ Edit the photo (Delete)
