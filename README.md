@@ -26,7 +26,7 @@
 - ✅ Edit my profile
 - ✅ See user profile
 - ✅ See my profile
-- ✅ See the full post
+- ✅ See the full photo
 - ⬜️ Upload a photo
 - ⬜️ Edit the photo (Delete)
 - ⬜️ See the feed
