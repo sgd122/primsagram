@@ -25,8 +25,8 @@
 - ✅ Unfollow User
 - ✅ Edit my profile
 - ✅ See user profile
-- ⬜️ See my profile
-- ⬜️ See the full photo
+- ✅ See my profile
+- ✅ See the full post
 - ⬜️ Upload a photo
 - ⬜️ Edit the photo (Delete)
 - ⬜️ See the feed

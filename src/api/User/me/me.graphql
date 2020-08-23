@@ -1,9 +1,4 @@
-type ProfileRresponse {
-  user: User!
-  posts: [Post!]!
-}
-
 type Query {
   # me: User!
-  me: ProfileRresponse!
+  me: UserProfile!
 }
