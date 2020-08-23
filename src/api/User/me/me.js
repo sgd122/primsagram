@@ -12,8 +12,6 @@ export default {
         user: userProfile,
         posts,
       };
-
-      return prisma.user({ id: user.id }).$fragment(USER_FRAGMENT);
     },
   },
 
