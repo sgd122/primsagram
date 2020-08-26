@@ -1,0 +1,14 @@
+version: "2"
+
+services:
+  node:
+    image: node:10
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=developement
+    volumes:
+      - ./:/home/node/app
+    command: sh -c "yarn && yarn dev"
+    # command: sh -c "yarn && npm rebuild node-sass && yarn start"
+    ports:
+      - 8080:8080

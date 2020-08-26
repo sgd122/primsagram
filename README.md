@@ -34,12 +34,12 @@ yarn global add prisma
 - ✅ See user profile
 - ✅ See my profile
 - ✅ See the full photo
-- ⬜️ Upload a photo
-- ⬜️ Edit the photo (Delete)
-- ⬜️ See the feed
-- ⬜️ See rooms
+- ✅ Upload a photo
+- ✅ Edit the photo (Delete)
+- ✅ See the feed
+- ✅ Send private Message
+- ✅ See rooms
 - ⬜️ See room
-- ⬜️ Send private Message
 - ⬜️ Receive Message (Realtime)
 
 ### 배포
