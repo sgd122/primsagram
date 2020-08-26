@@ -37,9 +37,9 @@ yarn global add prisma
 - ✅ Upload a photo
 - ✅ Edit the photo (Delete)
 - ✅ See the feed
-- ⬜️ See rooms
+- ✅ Send private Message
+- ✅ See rooms
 - ⬜️ See room
-- ⬜️ Send private Message
 - ⬜️ Receive Message (Realtime)
 
 ### 배포
