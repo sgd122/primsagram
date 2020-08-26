@@ -11,6 +11,13 @@
 ### 주의사항
 
 **prisma.yml** 파일은 필수적으로 gitignore해주어야 합니다. (prisma주소가 사용자에게 노출되어서는 않됩니다.)
+**.env** 파일은 필수적으로 gitignore해주어야 합니다.
+
+### global
+
+```
+yarn global add prisma
+```
 
 ### User Stories
 
@@ -26,10 +33,14 @@
 - ✅ Edit my profile
 - ✅ See user profile
 - ✅ See my profile
-- ✅ See the full post
-- ⬜️ Upload a photo
-- ⬜️ Edit the photo (Delete)
-- ⬜️ See the feed
+- ✅ See the full photo
+- ✅ Upload a photo
+- ✅ Edit the photo (Delete)
+- ✅ See the feed
+- ✅ Send private Message
+- ✅ See rooms
+- ⬜️ See room
+- ⬜️ Receive Message (Realtime)
 
 ### 배포
 
