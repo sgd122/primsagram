@@ -39,8 +39,8 @@ yarn global add prisma
 - ✅ See the feed
 - ✅ Send private Message
 - ✅ See rooms
-- ⬜️ See room
-- ⬜️ Receive Message (Realtime)
+- ✅ See room
+- ✅ Receive Message (Realtime)
 
 ### 배포
 
