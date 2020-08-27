@@ -1,7 +1,10 @@
 import { prisma } from "../../../generated/prisma-client";
 
 export default {
-  Post: {
+  Post: {    
+    files: ({id}) => prisma.post({id}).files(),
+    user: ({id}) => prisma.post({id}).user(),
+    comments: ({id}) => prisma.post({id}).comments(),
     isLiked: (parent, _, { request }) => {
       const { user } = request;
       const { id } = parent;
