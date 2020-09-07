@@ -40,7 +40,7 @@ type Like {
 type Comment {
   id: ID! @id
   text: String!
-  user: User @relation(name: "CommentsOfUser")
+  user: User @relation(name: "CommentsOfUser", link: TABLE)
   post: Post @relation(name: "CommentOfPost")
   createdAt: DateTime! @createdAt
   updatedAt: DateTime! @updatedAt
