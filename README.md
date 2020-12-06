@@ -4,6 +4,11 @@
 - Author: Gidong Seong
 - Licensed under the terms of the MIT License.
 
+## 배포관련
+
+- Frontend : netlify
+- Backend : Heroku
+
 ---
 
 ## prisma
@@ -56,3 +61,4 @@ yarn prisma
 - [JWT(passport-jwt))](http://www.passportjs.org/)
 - [random-key](https://randomkeygen.com/)
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [파일업로드](https://github.com/expressjs/multer/blob/master/doc/README-ko.md)
