@@ -437,8 +437,8 @@ copy-photon.sh
 .env*
 .prisma
 .pnpm-store
-prisma.yml
-prisma.yml2
+# prisma.yml
+# prisma.yml2
 
 generated
 

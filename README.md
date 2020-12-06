@@ -4,6 +4,11 @@
 - Author: Gidong Seong
 - Licensed under the terms of the MIT License.
 
+## 배포관련
+
+- Frontend : netlify
+- Backend : Heroku
+
 ---
 
 ## prisma
