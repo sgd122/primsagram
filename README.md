@@ -15,7 +15,7 @@
 
 ### 주의사항
 
-**prisma.yml** 파일은 필수적으로 gitignore해주어야 합니다. (prisma주소가 사용자에게 노출되어서는 않됩니다.)
+**prisma.yml** 파일은 필수적으로 gitignore해주어야 합니다. (prisma주소가 사용자에게 노출되어서는 않됩니다)
 **.env** 파일은 필수적으로 gitignore해주어야 합니다.
 
 ### global
